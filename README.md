@@ -4,11 +4,17 @@
 📸 Features
 
 ✅ Responsive Design – Works smoothly across desktop and mobile screens.
+
 ✅ Beautiful UI/UX – Inspired by Instagram’s latest look.
+
 ✅ Dark Mode Toggle (UI link placeholder)
+
 ✅ Story Section – Displays circular user stories with profile images.
+
 ✅ Post Feed – Multiple dynamic post layouts with usernames, images, and captions.
+
 ✅ Navbar with Icons – Intuitive navigation menu including Home, Explore, Messages, Notifications, and Profile.
+
 ✅ Follow Section – Suggestion and profile display for logged-in users.
 
 🛠️ Technologies Used
